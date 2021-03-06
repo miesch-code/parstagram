@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-Attempted indeterminate progress bar but app kept crashing in MainActivity
+Attempted indeterminate progress bar but app kept crashing in MainActivity so did not implement.
 
 ## Open-source libraries used
 
